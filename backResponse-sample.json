@@ -1,0 +1,11 @@
+{"Body":{"stkCallback":
+	{"MerchantRequestID":"12725-4580808-1",
+	"CheckoutRequestID":"ws_CO_281220191531366400",
+	"ResultCode":0,
+	"ResultDesc":"The service request is processed successfully.",
+	"CallbackMetadata":
+	{"Item":[{"Name":"Amount","Value":1.00},
+	{"Name":"MpesaReceiptNumber","Value":"NLS0ZDM0WI"},
+	{"Name":"Balance"},
+	{"Name":"TransactionDate","Value":20191228153152},
+	{"Name":"PhoneNumber","Value":25470000000}]}}}}

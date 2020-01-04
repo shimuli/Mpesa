@@ -1,0 +1,17 @@
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "OA384S5WVI",
+            "TransTime": "20200103133441",
+            "TransAmount": "1.00",
+            "BusinessShortCode": "682530",
+            "BillRefNumber": "cedrictest1",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "24.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "254710000000",
+            "FirstName": "CEDRIC",
+            "MiddleName": "MADEGWA",
+            "LastName": "SHIMULI"
+        }
+ 
+        
